@@ -6,3 +6,4 @@
 - tmux
   - tmux-continuum  tmux-resurrect  tmux-themepack  tpm  vim-tmux-navigator
 - iterm2
+  - JetBrains Dracula
