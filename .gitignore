@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.gitmodules
+!README.md
+
+# Folders
+!.config/
+.config/*
+!.config/nvim
+
+# Ignore all files named .DS_Store or ending with .log
+**/.DS_Store
+**.log
