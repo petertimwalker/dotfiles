@@ -5,6 +5,7 @@
 !.gitignore
 !.gitmodules
 !README.md
+!.tmux.conf
 
 # Folders
 !.config/
