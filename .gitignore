@@ -8,6 +8,7 @@
 !.tmux.conf
 !.zshrc
 !.aliases.zsh
+!iterm_colors.itermcolors
 
 # Folders
 !.config/
