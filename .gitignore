@@ -9,6 +9,7 @@
 !.zshrc
 !.aliases.zsh
 !iterm_colors.itermcolors
+!create_tmux_session.sh
 
 # Folders
 !.config/
