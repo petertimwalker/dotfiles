@@ -1,3 +1,4 @@
+alias tmuxs="./create_tmux_session.sh"
 alias fnd="find . -type f -iname"
 alias gc="git clone"
 alias c="clear"
